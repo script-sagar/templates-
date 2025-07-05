@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+    width: 100%;
+    border: 0px solid black;
+}
+.item-1,.item-2,.item-3,.item-4
+{
+    width: 300px;
+    border: 0px solid black;
+    display: inline-block;
+    padding: 5px;
+}
+img{
+    width: 100%;
+}
